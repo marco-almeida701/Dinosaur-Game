@@ -1,2 +1,2 @@
 # dinosaur-game
-game simple with HTML+CSS+JavaScript
+Simple game using __*HTML+CSS+JavaScript*__
